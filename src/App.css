@@ -1,0 +1,36 @@
+.swal-button--submit {
+    padding: 7px 19px;
+    border-radius: 2px;
+    background-color: #5B9A8B;
+    font-size: 16px;
+    border: 1px solid #5B9A8B;
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+  }
+
+  .swal-button--confirm {
+    padding: 7px 19px;
+    border-radius: 2px;
+    background-color: #5B9A8B;
+    font-size: 16px;
+    border: 1px solid #5B9A8B;
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+  }
+
+  .swal-button--delete{
+    padding: 7px 19px;
+    border-radius: 2px;
+    background-color: #FF6969;
+    font-size: 16px;
+    color: white;
+    border: 1px solid #FF6969;
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+  }
+
+  .swal-button--cancel{
+    padding: 7px 19px;
+    border-radius: 2px;
+    font-size: 16px;
+    color: black;
+
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+  }
